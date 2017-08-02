@@ -1,2 +1,2 @@
-# udemyts01
-Udemy TypeScript Course
+# Curso TypeScript para Desenvolvedores C#
+## Glaucia Ramos
