@@ -1,4 +1,5 @@
 function booleanExample(overEighteen) {
+    overEighteen ? console.log("Let's Drive!") : console.log("Sorry, you can't drive.");
     if (overEighteen) {
         console.log("Let's Drive!");
     }

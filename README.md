@@ -1,2 +1,2 @@
 # Curso TypeScript para Desenvolvedores C#
-## Glaucia Ramos
+## Glaucia Lemos
