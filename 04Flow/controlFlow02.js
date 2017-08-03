@@ -20,8 +20,8 @@ function cities() {
         cityTwo: "Paris",
         cityThree: "Los Angeles"
     };
-    for (var key in cities) {
-        console.log(key + ' = ' + cities[key]);
+    for (var city in cities) {
+        console.log(city + ' = ' + cities[city]);
     }
 }
 cities();
