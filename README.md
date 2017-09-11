@@ -2,9 +2,9 @@
 ## Glaucia Lemos
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação:
-- Visual Studio Code - [LINK PARA BAIXAR](https://code.visualstudio.com/)
-- Node.Js - [LINK PARA BAIXAR](https://nodejs.org/en/)
-- TypeScript 2.x - [LINK PARA BAIXAR](https://www.typescriptlang.org/)
+- Visual Studio Code
+- Node.Js
+- TypeScript 2.x
 
 ## Conteúdo do Curso:
 - Olá Mundo em Ts   
@@ -16,6 +16,6 @@
 - Parâmetros Rest
 - Arrow Functions
 - Classes
-- Construtores;
+- Construtores
 - Herança
-- Interfaces;
+- Interfaces
