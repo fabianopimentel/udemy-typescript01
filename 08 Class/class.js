@@ -1,4 +1,4 @@
-var Customer = (function () {
+var Customer = /** @class */ (function () {
     function Customer(code, name, address, city, state, phone, mail, age) {
         this.code = code;
         this.name = name;

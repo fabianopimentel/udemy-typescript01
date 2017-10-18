@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var HelloWorld = (function () {
+var HelloWorld = /** @class */ (function () {
     function HelloWorld() {
     }
     HelloWorld.prototype.sayHello = function () {
